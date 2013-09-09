@@ -1,0 +1,33 @@
+-Login as teacher or student
+
+-Teachers
+--View classes
+--Attendance
+--Adjust student records
+--Assign assignments to students
+--Lesson plans
+--Grading
+--Calendar
+--Announcements
+--Contact Administrator
+
+
+-Administrators
+--View classes
+--Create classes
+--Create accounts (teachers or students)
+--Global grades
+--Global student management
+--Scheduling
+--Export behavior reports into nice format for printing
+--Graphs for student grades, number of behavior reports, etc.
+
+-Students
+--View their own grades
+--View their own classes
+--Contact teachers
+--Contact administrators
+--Calendars
+--Export a transcript
+--Obviously manage their own account
+--Attendance
